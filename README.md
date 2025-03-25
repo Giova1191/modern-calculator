@@ -11,7 +11,7 @@
 **IT**  
 ✔️ Operazioni aritmetiche con precisione decimale  
 ✔️ Supporto completo tastiera (0-9, +, -, *, /)  
-✔️ Design responsive ispirato a iOS  
+✔️ Design minimalista moderno
 ✔️ Animazioni fluide  
 ✔️ Gestione errori avanzata  
 
@@ -23,6 +23,5 @@
 
 ## 🚀 Usage | Utilizzo
 ```bash
-git clone https://github.com/yourusername/calculator.git
-cd calculator
+git clone https://github.com/Giova1191/modern-calculator.git
 open index.html
