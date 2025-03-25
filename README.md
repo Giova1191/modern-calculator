@@ -4,7 +4,7 @@
 **EN**  
 ✔️ Basic arithmetic operations with decimal precision  
 ✔️ Full keyboard support (0-9, +, -, *, /)  
-✔️ iOS-inspired responsive design  
+✔️ Minimalist modern design 
 ✔️ Fluid animations and transitions  
 ✔️ Advanced error handling  
 
